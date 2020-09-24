@@ -26,9 +26,7 @@
       <id>site-server</id>
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
-    </site>
-  
-
+      </site>
   <build>
     <plugins>
       <plugin>
